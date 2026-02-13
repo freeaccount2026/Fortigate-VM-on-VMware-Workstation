@@ -18,10 +18,5 @@ Chọn file dưới đây
 
 <img width="908" height="855" alt="image" src="https://github.com/user-attachments/assets/a91c7591-a75a-420a-90c3-ae232636dd5b" />
 
-Edit -> Virtual Network Editor -> Change Setting
-Máy ảo là mạng con của mạng vật lý của bạn, bạn cần phải ping và truy cập được đến máy ảo từ máy tính của bạn hoặc bất kì thiết bị nào kết nối vào mạng này nên "Bright adapter sẽ hoạt đôngh như là Wan interface
-Adapter 2 sẽ là LAN interface
-
-<img width="372" height="171" alt="image" src="https://github.com/user-attachments/assets/4aa13d2e-e29b-4025-a5b0-8fc55f70ecde" />
 
 
